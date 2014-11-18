@@ -1,0 +1,11 @@
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\bin\Debug\CAN-SAT.exe
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\bin\Debug\CAN-SAT.pdb
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\CAN_SAT.Form1.resources
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\CAN_SAT.Properties.Resources.resources
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\CAN-SAT.exe
+c:\users\mouhamed\documents\visual studio 2010\Projects\CAN-SAT\CAN-SAT\obj\x86\Debug\CAN-SAT.pdb
+C:\Users\mouhamed\Documents\Visual Studio 2010\Projects\CAN-SAT\CAN-SAT\bin\Debug\CAN-SAT.accdb
+C:\Users\mouhamed\Documents\Visual Studio 2010\Projects\CAN-SAT\CAN-SAT\bin\Debug\CAN-SAT.exe.config
